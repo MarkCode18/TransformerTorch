@@ -12,6 +12,10 @@ A Jupyter Notebook [TransformerTorch.ipynb](https://github.com/HooM4N/Transforme
 
 Implemented modules: `ScaledDotProductAttention`, `MultiHeadAttention`, `EncoderLayer`, `DecoderLayer`, `TransformerEncoder`, `TransformerDecoder`, `Transformer` (encoder + decoder), and a custom `PositionalEmbedding` (implemented instead of the sinusoidal embedding in the original paper).
 
+<p align="center">
+  <img src="https://cdn-uploads.huggingface.co/production/uploads/65f42e30c9940817caaaa8e6/g4IyUviCFdcbVqe1Izijl.png" width="50%" alt="Screenshot">
+</p>
+
 ## 🌐 **Training a Neural Machine Translation System with Transformer**
 Also included in the notebook: the Transformer architecture is applied to train a **Neural Machine Translation** system on 220K English–Spanish sentence pairs using a BPE tokenizer.
 
